@@ -1,0 +1,7 @@
+from setuptools import setup, packages
+
+setup(
+	name='',
+	version,
+	packages=find_packages()	
+)
