@@ -111,5 +111,5 @@ Reference Article Used:
 http://davidiscoding.com/real-time-twitter-sentiment-analysis-pt-1-introduction
 
 
-Thank You
+Thank You!
 !!!--------ENJOY-------!!!
